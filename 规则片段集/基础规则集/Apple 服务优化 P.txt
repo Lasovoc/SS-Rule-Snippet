@@ -10,3 +10,4 @@ DOMAIN-SUFFIX,apps.apple.com
 DOMAIN-SUFFIX,blobstore.apple.com
 DOMAIN,cvws.icloud-content.com
 PROCESS-NAME,News
+DOMAIN-SUFFIX, mzstatic.com
