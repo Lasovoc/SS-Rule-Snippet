@@ -1,4 +1,4 @@
-# > Apple
+[Rule]
 DOMAIN,developer.apple.com,Proxy
 DOMAIN-SUFFIX,digicert.com,Proxy
 USER-AGENT,com.apple.trustd*,Proxy
