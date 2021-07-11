@@ -6,7 +6,6 @@ DOMAIN-SUFFIX,itunes.apple.com,DIRECT
 DOMAIN-SUFFIX,icloud.com,DIRECT
 DOMAIN-SUFFIX,icloud-content.com,DIRECT
 USER-AGENT,cloudd*,DIRECT
-AND,((NOT,((USER-AGENT,*com.apple.WebKit*))),(USER-AGENT,*com.apple.*)),DIRECT
 DOMAIN-SUFFIX,me.com,DIRECT
 DOMAIN-SUFFIX,aaplimg.com,DIRECT
 DOMAIN-SUFFIX,cdn20.com,DIRECT
