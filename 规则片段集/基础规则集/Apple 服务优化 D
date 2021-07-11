@@ -1,3 +1,4 @@
+# > Apple
 USER-AGENT,com.apple.appstored*,DIRECT
 USER-AGENT,AppStore*,DIRECT
 DOMAIN-SUFFIX,mzstatic.com,DIRECT
