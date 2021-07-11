@@ -19,4 +19,4 @@ DOMAIN-SUFFIX,mwcname.com,DIRECT
 DOMAIN-SUFFIX,apple.com,DIRECT
 DOMAIN-SUFFIX,apple-cloudkit.com,DIRECT
 DOMAIN-SUFFIX,apple-mapkit.com,DIRECT
-DOMAIN,e.crashlytics.com,REJECT
+DOMAIN,e.crashlytics.com,REJECTnnb
