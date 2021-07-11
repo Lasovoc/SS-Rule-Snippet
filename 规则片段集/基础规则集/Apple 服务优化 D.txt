@@ -1,11 +1,9 @@
 [Rule]
-USER-AGENT,com.apple.appstored*
-USER-AGENT,AppStore*
+
 DOMAIN-SUFFIX,mzstatic.com
 DOMAIN-SUFFIX,itunes.apple.com
 DOMAIN-SUFFIX,icloud.com
 DOMAIN-SUFFIX,icloud-content.com
-USER-AGENT,cloudd*
 DOMAIN-SUFFIX,me.com
 DOMAIN-SUFFIX,aaplimg.com
 DOMAIN-SUFFIX,cdn20.com
