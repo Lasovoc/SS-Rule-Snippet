@@ -1,5 +1,5 @@
 # > Telegram
-DOMAIN-SUFFIX,tel.egra.ph
+DOMAIN-SUFFIX,te.legra.ph
 DOMAIN-SUFFIX,telegra.ph
 DOMAIN-SUFFIX,telegram.org
 
