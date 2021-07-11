@@ -1,5 +1,3 @@
-[Rule]
-
 ## 抗 DNS 污染
 DOMAIN-KEYWORD,amazon
 DOMAIN-KEYWORD,google
